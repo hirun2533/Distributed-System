@@ -1,0 +1,439 @@
+=========PROCESS ZERO=========
+
+loop-depaulsecure-240-187:blockchain jannybarbie$ javac Blockchain.java
+loop-depaulsecure-240-187:blockchain jannybarbie$ java Blockchain 0
+Begin the Process : 0 of Blockchain
+Starting the process 0
+Getting SetProcess1
+Getting SetProcess0
+Getting SetProcess2
+Choose Letters to start blockchain 'R','V','V signature','L' or 'C' 
+L //choose little L
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+L
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+
+C //choose letter C
+Verification Credit: P0=7,P1=2, P2=3
+L
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+V //choose Letter V
+Blocks number 1-12 in the blockchain have been verified
+
+C //choose letter C again             
+Verification Credit: P0=7,P1=2, P2=3
+
+R BlockInput0.txt //re input the file again
+4 records have been added to unverified blocks.
+L
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+L //choose little L
+22.  2019-05-23.15:23:11 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+L //choose little L again
+24.  2019-05-23.15:23:11 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2019-05-23.15:23:11 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2019-05-23.15:23:11 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+C //choose letter C again 
+Verification Credit: P0=13,P1=7, P2=4
+
+V //choose Letter V
+Blocks number 1-24 in the blockchain have been verified
+
+V signature //choose V signature 
+Block 1 invalid: signed sha256 string does not match verifying process
+Blocks number 1-24 in the blockchain have been verified
+
+
+Sometime I got the different verification credit
+L //choose little L
+
+12.  2019-05-25.15:28:09 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2019-05-25.15:28:09 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+10.  2019-05-25.15:28:09 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2019-05-25.15:28:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+8.  2019-05-25.15:28:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+7.  2019-05-25.15:28:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+6.  2019-05-25.15:27:59 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+5.  2019-05-25.15:27:59 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-25.15:27:59 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+3.  2019-05-25.15:27:54 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+2.  2019-05-25.15:27:54 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-25.15:27:54 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+C
+Verification Credit: P0=4,P1=7, P2=1
+
+
+=========PROCESS ONE=========
+loop-depaulsecure-240-187:blockchain jannybarbie$ java Blockchain 1
+Begin the Process : 1 of Blockchain
+Starting the process 1
+Getting SetProcess1
+Getting SetProcess0
+Getting SetProcess2
+Choose Letters to start blockchain 'R','V','V signature','L' or 'C' 
+L //choose little L
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+L
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+
+C //choose letter C 
+Verification Credit: P0=7,P1=2, P2=3
+
+L //choose little L again
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+V //choose Letter V
+Blocks number 1-12 in the blockchain have been verified
+
+C //choose letter C again 
+Verification Credit: P0=7,P1=2, P2=3
+
+R BlockInput1.txt //re input the file again
+4 records have been added to unverified blocks.
+
+L //choose little L again
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+L //choose little L again
+23.  2019-05-23.15:23:11 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2019-05-23.15:23:11 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+L //choose little L again
+24.  2019-05-23.15:23:11 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2019-05-23.15:23:11 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2019-05-23.15:23:11 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+C //choose letter C again
+Verification Credit: P0=13,P1=7, P2=4
+
+V //choose Letter V
+Blocks number 1-24 in the blockchain have been verified
+
+V signature //choose Letter V signature
+Block 1 invalid: signed sha256 string does not match verifying process
+Blocks number 1-24 in the blockchain have been verified
+
+
+Sometimes I got the different verification credit
+L //choose little L 
+12.  2019-05-25.15:28:09 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2019-05-25.15:28:09 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+10.  2019-05-25.15:28:09 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2019-05-25.15:28:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+8.  2019-05-25.15:28:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+7.  2019-05-25.15:28:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+6.  2019-05-25.15:27:59 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+5.  2019-05-25.15:27:59 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-25.15:27:59 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+3.  2019-05-25.15:27:54 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+2.  2019-05-25.15:27:54 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-25.15:27:54 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+C //choose Letter C again
+Verification Credit: P0=2,P1=9, P2=1
+
+
+========= PROCESS TWO=========
+loop-depaulsecure-240-187:blockchain jannybarbie$ java Blockchain 2
+Begin the Process : 2 of Blockchain
+Starting the process 2
+Getting SetProcess1
+Getting SetProcess0
+Getting SetProcess2
+Choose Letters to start blockchain 'R','V','V signature','L' or 'C' 
+
+L //choose little L
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+
+L //choose little L again
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+C //choose Letter C
+Verification Credit: P0=7,P1=2, P2=3
+
+L //choose little L again
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+
+V //choose Letter V
+Blocks number 1-12 in the blockchain have been verified
+
+
+C //choose letter C again
+Verification Credit: P0=7,P1=2, P2=3
+
+
+R BlockInput2.txt //re input the file again
+4 records have been added to unverified blocks.
+
+L //choose little L again
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+
+L //choose little L again
+24.  2019-05-23.15:23:11 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2019-05-23.15:23:11 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2019-05-23.15:23:11 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2019-05-23.15:23:11 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2019-05-23.15:23:03 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2019-05-23.15:23:03 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2019-05-23.15:23:03 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2019-05-23.15:23:03 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2019-05-23.15:22:56 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2019-05-23.15:22:56 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2019-05-23.15:22:56 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2019-05-23.15:22:56 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2019-05-23.15:21:04 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+11.  2019-05-23.15:21:04 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+10.  2019-05-23.15:21:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+9.  2019-05-23.15:21:04 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+8.  2019-05-23.15:21:04 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+7.  2019-05-23.15:21:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+6.  2019-05-23.15:21:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+5.  2019-05-23.15:21:04 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-23.15:21:04 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+3.  2019-05-23.15:21:04 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+2.  2019-05-23.15:21:04 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-23.15:21:04 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+
+C //choose letter C again
+Verification Credit: P0=13,P1=7, P2=4
+
+V //choose Letter V
+Blocks number 1-24 in the blockchain have been verified
+
+V signature //choose Letter V signature
+Block 1 invalid: signed sha256 string does not match verifying process
+Blocks number 1-24 in the blockchain have been verified
+
+Sometimes I got the different verification credit
+
+L //choose little L again
+12.  2019-05-25.15:28:09 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2019-05-25.15:28:09 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+10.  2019-05-25.15:28:09 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2019-05-25.15:28:04 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+8.  2019-05-25.15:28:04 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+7.  2019-05-25.15:28:04 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+6.  2019-05-25.15:27:59 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+5.  2019-05-25.15:27:59 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+4.  2019-05-25.15:27:59 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+3.  2019-05-25.15:27:54 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+2.  2019-05-25.15:27:54 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+1.  2019-05-25.15:27:54 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+
+C //choose letter C again
+Verification Credit: P0=4,P1=7, P2=1
+
+
+
